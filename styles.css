@@ -37,6 +37,7 @@ h2 {
 }
 
 .image-container-2 {
+  display: flex;
   width: 80%;
   padding-bottom: 15px;
   padding-right: 15px;
